@@ -1,0 +1,9 @@
+DATA TERMS OF USE
+
+The images in this competition were collected from a public food-photo sharing website and
+remain the property of their original photographers. They are provided solely for this course,
+for teaching and scientific fair use.
+
+- Use the data only for this competition and course.
+- Do not redistribute, publish or share the images or labels outside the competition.
+- Any use beyond scientific fair use requires permission from the respective picture owners.

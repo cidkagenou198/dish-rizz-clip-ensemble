@@ -1,0 +1,45 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+.ipynb_checkpoints/
+
+# Dataset Images (Competition data: restricted by terms & large size)
+train_gallery/
+validation_gallery/
+test_gallery/
+*.jpg
+*.jpeg
+*.png
+
+# Model Checkpoints & Weights (>100MB, rejected by GitHub)
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+
+# Cached Feature Files & Embeddings (large and regenerable)
+extracted_features/
+feat_*.npz
+text2_*.npy
+*.npy
+*.npz
+
+# Submissions (regenerable outputs)
+submission_*.csv
+submission.csv
+
+# Environment & Logs
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

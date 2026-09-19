@@ -1,0 +1,506 @@
+query_id,description,category_id,category_name
+q_00b2b3b8,This picture shows French toast.,c_9fc143,french toast
+q_01604660,"A photo of onion rings, which is rings of sliced onion coated in batter or breadcrumbs and deep-fried.",c_78f4cf,onion rings
+q_0161b179,Retrieve images of clam chowder.,c_582ca1,clam chowder
+q_0270d540,A snapshot of bruschetta.,c_2c1c44,bruschetta
+q_05024af8,Looking for an image of ice cream.,c_e4731e,ice cream
+q_0520cb0e,"A photo of bread pudding, which is a baked dessert made from bread soaked in a custard mixture.",c_7369af,bread pudding
+q_05289239,Pho served and ready to eat.,c_d59b41,pho
+q_0568bc50,A food photograph featuring a grilled cheese sandwich.,c_3dda4a,grilled cheese sandwich
+q_0578e695,"A photograph of sushi, described as a Japanese dish of vinegared rice combined with ingredients such as raw fish, seafood or vegetables.",c_ee0342,sushi
+q_0653bd3e,The main food in this picture is ceviche.,c_256874,ceviche
+q_065e1ed2,Food image: scallops.,c_cb8250,scallops
+q_067a9e7c,An image showing an omelette.,c_40ddb0,omelette
+q_07ad54f8,Food image: beignets.,c_49ab78,beignets
+q_07c00531,"A photograph of eggs Benedict, described as an English muffin topped with ham or bacon, a poached egg and hollandaise sauce.",c_2b79ae,eggs benedict
+q_08ae86ae,Food image: bread pudding.,c_7369af,bread pudding
+q_08db633e,Pad thai served and ready to eat.,c_77882d,pad thai
+q_0ac14c5a,"An image of a dish of scallops, marine bivalve shellfish, known as scallops.",c_cb8250,scallops
+q_0b0af053,Peking duck served and ready to eat.,c_791a33,peking duck
+q_0b1c5e96,A picture of insalata caprese (caprese salad).,c_a73d5e,caprese salad
+q_0b83fe44,The main food in this picture is foie gras.,c_09f71d,foie gras
+q_0c95ce96,Looking for an image of a beet salad.,c_ee664f,beet salad
+q_0cdb9be7,A picture of doughnuts (donuts).,c_e3e89a,donuts
+q_0e19f677,A meal featuring French toast.,c_9fc143,french toast
+q_0e53ce0f,Retrieve images of a Caesar salad.,c_988dbd,caesar salad
+q_0e798928,An image showing bibimbap.,c_cd6629,bibimbap
+q_0ed32a3b,An image showing beignets.,c_49ab78,beignets
+q_0f7b7792,"An image of a sandwich filled with slow-cooked shredded pork, known as pulled pork sandwich.",c_ee01b2,pulled pork sandwich
+q_0ff786fe,Retrieve images of frozen yogurt.,c_46de6b,frozen yogurt
+q_107bc5e9,A food photograph featuring gnocchi.,c_11a67d,gnocchi
+q_107f8369,Food image: french fries.,c_9909b2,french fries
+q_10c92d81,The main food in this picture is garlic bread.,c_a6d1d3,garlic bread
+q_11af1b8c,The main food in this picture is scallops.,c_cb8250,scallops
+q_11bbf543,Retrieve images of nachos.,c_a4246e,nachos
+q_132b9a1c,Fish and chips served and ready to eat.,c_dd5139,fish and chips
+q_141384b5,Find me a photo of baklava.,c_499d03,baklava
+q_15ce7906,A food photograph featuring garlic bread.,c_a6d1d3,garlic bread
+q_15f246aa,A snapshot of macarons.,c_779807,macarons
+q_16e27ab7,"A photo of baby back ribs, which is pork ribs cut from the upper part of the rib cage, near the spine.",c_8c3a65,baby back ribs
+q_16eecc75,Looking for an image of hummus.,c_fd10cb,hummus
+q_17445968,An image showing chicken curry.,c_1df09b,chicken curry
+q_174a73aa,Fried calamari served and ready to eat.,c_23ad1b,fried calamari
+q_176f9de5,Looking for an image of dumplings.,c_8fcd7d,dumplings
+q_17c3bdca,Food image: eggs Benedict.,c_2b79ae,eggs benedict
+q_17d9bf4f,"An image of snails, also called escargots.",c_524a42,escargots
+q_1833bce0,A food photograph featuring a chicken quesadilla.,c_5f223e,chicken quesadilla
+q_187d8a53,A snapshot of apple pie.,c_e80161,apple pie
+q_18a0d9f0,Find me a photo of tiramisu.,c_6fcfbc,tiramisu
+q_18caa6cd,Food image: a pork chop.,c_2e91e6,pork chop
+q_1925fc0d,Oysters served and ready to eat.,c_c68ad1,oysters
+q_19ad5389,A meal featuring deviled eggs.,c_d9bac6,deviled eggs
+q_1a3635fa,A picture of seviche (ceviche).,c_256874,ceviche
+q_1aa29772,Looking for an image of onion rings.,c_78f4cf,onion rings
+q_1addbb86,A food photograph featuring a croque madame.,c_18221e,croque madame
+q_1b8a3f49,An image showing prime rib.,c_a23a6d,prime rib
+q_1ba8ea52,A food photograph featuring gyoza.,c_41a778,gyoza
+q_1c113283,"A photo of apple pie, which is a baked pie with a filling made from apples.",c_e80161,apple pie
+q_1ca47cef,Guacamole served and ready to eat.,c_286b03,guacamole
+q_1ce38484,An image showing waffles.,c_059bcd,waffles
+q_1d97a180,A meal featuring seaweed salad.,c_74fb59,seaweed salad
+q_1db66ef2,A meal featuring chocolate mousse.,c_b1659a,chocolate mousse
+q_1dbd6ee5,This picture shows churros.,c_bb03ec,churros
+q_1dc824ee,"An image of a Canadian dish of fried potatoes topped with cheese curds and gravy, known as poutine.",c_0e17a4,poutine
+q_1e5b778c,Food image: chicken wings.,c_4312a4,chicken wings
+q_1e8b92be,"An image of omelet, also called omelette.",c_40ddb0,omelette
+q_1e9e4419,"A photo of pizza, which is a flat base of leavened dough topped with ingredients such as tomato sauce and cheese, then baked.",c_310580,pizza
+q_1f2b225d,"An image of a French dish of cooked land snails, known as escargots.",c_524a42,escargots
+q_1f3ed285,The main food in this picture is a caprese salad.,c_a73d5e,caprese salad
+q_1f8f3dc7,The main food in this picture is a chicken quesadilla.,c_5f223e,chicken quesadilla
+q_202efce8,A food photograph featuring bruschetta.,c_2c1c44,bruschetta
+q_203bcb11,"An image of immature soybeans cooked in the pod, known as edamame.",c_d67f3a,edamame
+q_20f5cd30,Find me a photo of nachos.,c_a4246e,nachos
+q_21ce92d7,Frozen yogurt served and ready to eat.,c_46de6b,frozen yogurt
+q_21ede529,This picture shows tacos.,c_804a90,tacos
+q_22018507,This picture shows paella.,c_875345,paella
+q_22449f9b,A snapshot of a croque madame.,c_18221e,croque madame
+q_236affe9,A picture of hotcakes (pancakes).,c_50c6e4,pancakes
+q_24488713,The main food in this picture is fried rice.,c_5799d4,fried rice
+q_254e5b22,A food photograph featuring takoyaki.,c_897836,takoyaki
+q_2559f151,"Food known as macarons, French sandwich cookies made from two almond meringue shells with a filling in between.",c_779807,macarons
+q_281a1dd6,An image showing eggs Benedict.,c_2b79ae,eggs benedict
+q_284ab110,Food image: cannoli.,c_f91c48,cannoli
+q_289cdd8b,Food image: a lobster roll.,c_49bb17,lobster roll
+q_297ff526,Retrieve images of onion rings.,c_78f4cf,onion rings
+q_2995ea71,Looking for an image of pizza.,c_310580,pizza
+q_2a284fb8,A snapshot of chicken wings.,c_4312a4,chicken wings
+q_2a50c45f,Find me a photo of bruschetta.,c_2c1c44,bruschetta
+q_2b09e411,"A photo of tuna tartare, which is a dish of finely diced raw tuna.",c_3930d5,tuna tartare
+q_2b103926,A meal featuring French onion soup.,c_a8e2e4,french onion soup
+q_2b4f7966,A food photograph featuring chicken curry.,c_1df09b,chicken curry
+q_2b62fd3d,"A photograph of prime rib, described as a roast of beef cut from the primal rib section.",c_a23a6d,prime rib
+q_2b66c608,A meal featuring mussels.,c_f4fdde,mussels
+q_2ba813af,"A photo of macaroni and cheese, which is macaroni pasta cooked or baked in a cheese sauce.",c_ba339e,macaroni and cheese
+q_2db5e40a,"A photograph of mussels, described as a dish of mussels, bivalve shellfish with dark elongated shells.",c_f4fdde,mussels
+q_2e2ca523,Find me a photo of crab cakes.,c_712448,crab cakes
+q_2e42b351,Find me a photo of lasagna.,c_09f6e0,lasagna
+q_2e4d9905,This picture shows miso soup.,c_618253,miso soup
+q_2eac1e15,Food image: French toast.,c_9fc143,french toast
+q_2eec9f35,A food photograph featuring macaroni and cheese.,c_ba339e,macaroni and cheese
+q_30f78065,"An image of horiatiki, also called Greek salad.",c_b10ec1,greek salad
+q_316df8b0,A meal featuring cheesecake.,c_229978,cheesecake
+q_317622e9,A food photograph featuring frozen yogurt.,c_46de6b,frozen yogurt
+q_31b0726a,A snapshot of chicken curry.,c_1df09b,chicken curry
+q_329a4d8e,"A photograph of waffles, described as batter cakes cooked in a waffle iron, giving a grid-patterned surface.",c_059bcd,waffles
+q_32cebe77,"A photograph of huevos rancheros, described as a Mexican breakfast of fried eggs served on tortillas with salsa.",c_7fc35d,huevos rancheros
+q_34918e53,A food photograph featuring spaghetti carbonara.,c_69eb07,spaghetti carbonara
+q_359bb6ec,A snapshot of dumplings.,c_8fcd7d,dumplings
+q_35fa10fc,A food photograph featuring spring rolls.,c_af971c,spring rolls
+q_361664bb,"An image of devilled eggs, also called deviled eggs.",c_d9bac6,deviled eggs
+q_36319038,"A photo of miso soup, which is a Japanese soup made from dashi stock and miso paste.",c_618253,miso soup
+q_365311dd,Looking for an image of escargots.,c_524a42,escargots
+q_3691a79e,A food photograph featuring a Greek salad.,c_b10ec1,greek salad
+q_370013eb,"An image of a frozen dessert made from sweetened cream or milk, known as ice cream.",c_e4731e,ice cream
+q_37531891,An image showing cheesecake.,c_229978,cheesecake
+q_38134784,Ice cream served and ready to eat.,c_e4731e,ice cream
+q_39f410f5,An image showing guacamole.,c_286b03,guacamole
+q_3a23f092,A snapshot of chocolate mousse.,c_b1659a,chocolate mousse
+q_3a3b48e9,Looking for an image of a pulled pork sandwich.,c_ee01b2,pulled pork sandwich
+q_3cc53760,Food image: filet mignon.,c_af32ea,filet mignon
+q_3d0e1fb4,"A photo of gnocchi, which is soft Italian pieces of dough, traditionally made from potato and flour.",c_11a67d,gnocchi
+q_3d643bbf,Retrieve images of deviled eggs.,c_d9bac6,deviled eggs
+q_3e951418,The main food in this picture is lobster bisque.,c_cac5a4,lobster bisque
+q_3e9e3f56,"A photograph of cheese plate, described as a selection of different cheeses served together on a plate or board.",c_297dde,cheese plate
+q_3f648478,A meal featuring clam chowder.,c_582ca1,clam chowder
+q_40910240,This picture shows ravioli.,c_67c71f,ravioli
+q_4120cb7e,The main food in this picture is a pulled pork sandwich.,c_ee01b2,pulled pork sandwich
+q_412d05dd,A picture of ranch-style eggs (huevos rancheros).,c_7fc35d,huevos rancheros
+q_41b53518,A meal featuring an omelette.,c_40ddb0,omelette
+q_41bbf9c6,Food image: deviled eggs.,c_d9bac6,deviled eggs
+q_422995b0,A snapshot of beef tartare.,c_1445ee,beef tartare
+q_42ac58e9,Looking for an image of a hamburger.,c_6922ba,hamburger
+q_4319aaef,Retrieve images of churros.,c_bb03ec,churros
+q_431b69af,Looking for an image of a hot dog.,c_b88d36,hot dog
+q_432ae347,"Food known as hamburger, a sandwich of a cooked ground meat patty inside a sliced bun.",c_6922ba,hamburger
+q_4531940b,"A photograph of frozen yogurt, described as a frozen dessert made with yogurt.",c_46de6b,frozen yogurt
+q_45e25bc3,"An image of Beijing roast duck, also called Peking duck.",c_791a33,peking duck
+q_4620bd31,An image showing strawberry shortcake.,c_027b0d,strawberry shortcake
+q_46787222,Looking for an image of baklava.,c_499d03,baklava
+q_46c5a4fd,Waffles served and ready to eat.,c_059bcd,waffles
+q_474ba358,A food photograph featuring oysters.,c_c68ad1,oysters
+q_47679da8,"Food known as churros, fried sticks of dough, a snack popular in Spain and Latin America.",c_bb03ec,churros
+q_478be5bc,Panna cotta served and ready to eat.,c_d8670e,panna cotta
+q_48a53749,This picture shows red velvet cake.,c_585070,red velvet cake
+q_4996eeb2,Beef carpaccio served and ready to eat.,c_e32bea,beef carpaccio
+q_499f0ad5,This picture shows spaghetti bolognese.,c_3c9ce0,spaghetti bolognese
+q_49f3ba29,Retrieve images of donuts.,c_e3e89a,donuts
+q_4a150a9d,"Food known as paella, a Spanish rice dish cooked in a wide, shallow pan.",c_875345,paella
+q_4a19c30a,"A photo of chocolate cake, which is a cake flavoured with chocolate or cocoa.",c_779b8c,chocolate cake
+q_4b8bc50c,"A photo of a grilled cheese sandwich, which is a hot sandwich of cheese between slices of bread, grilled or pan-fried.",c_3dda4a,grilled cheese sandwich
+q_4be3a058,"An image of a dessert of shortcake or sponge cake layered with strawberries and whipped cream, known as strawberry shortcake.",c_027b0d,strawberry shortcake
+q_4cb018c7,Find me a photo of hot and sour soup.,c_eba712,hot and sour soup
+q_4db1cbe5,A picture of fried squid (fried calamari).,c_23ad1b,fried calamari
+q_4de45a8a,A snapshot of samosas.,c_c76210,samosa
+q_4df7ff45,A snapshot of sashimi.,c_767b6d,sashimi
+q_4f1467b4,An image showing cannoli.,c_f91c48,cannoli
+q_4f681fcd,The main food in this picture is French onion soup.,c_a8e2e4,french onion soup
+q_50e3858c,Find me a photo of macarons.,c_779807,macarons
+q_517740b8,Looking for an image of clam chowder.,c_582ca1,clam chowder
+q_52e85168,"A photo of takoyaki, which is Japanese ball-shaped snacks of wheat-flour batter filled with pieces of octopus.",c_897836,takoyaki
+q_53c43b7b,"A photo of deviled eggs, which is hard-boiled egg halves whose yolks are mashed with seasoning and returned to the whites.",c_d9bac6,deviled eggs
+q_53d1df91,Retrieve images of baklava.,c_499d03,baklava
+q_540dd33f,"An image of battered fried fish served with fried potato chips, known as fish and chips.",c_dd5139,fish and chips
+q_546f35ae,A food photograph featuring scallops.,c_cb8250,scallops
+q_547a98d0,A meal featuring a cheese plate.,c_297dde,cheese plate
+q_5480da1c,Food image: sashimi.,c_767b6d,sashimi
+q_54f1d52f,Tacos served and ready to eat.,c_804a90,tacos
+q_552d627e,A picture of cup cakes (cupcakes).,c_9c0170,cupcakes
+q_55381110,"A photo of ramen, which is a Japanese noodle soup of wheat noodles in broth.",c_120ff4,ramen
+q_5578792c,An image showing paella.,c_875345,paella
+q_55b02999,Sashimi served and ready to eat.,c_767b6d,sashimi
+q_56eb23c2,"A photograph of pork chop, described as a cut of pork loin taken across the spine.",c_2e91e6,pork chop
+q_57f0a000,A food photograph featuring poutine.,c_0e17a4,poutine
+q_584df0f3,Food image: a Greek salad.,c_b10ec1,greek salad
+q_58a17f54,Retrieve images of apple pie.,c_e80161,apple pie
+q_58dfb6e5,"An image of an Italian dessert of sweetened cream set with gelatin, known as panna cotta.",c_d8670e,panna cotta
+q_58f4c681,Find me a photo of fried calamari.,c_23ad1b,fried calamari
+q_59bf563e,"A photograph of spaghetti bolognese, described as spaghetti served with a meat-based Bolognese sauce.",c_3c9ce0,spaghetti bolognese
+q_5a107d53,This picture shows garlic bread.,c_a6d1d3,garlic bread
+q_5a667a00,Retrieve images of edamame.,c_d67f3a,edamame
+q_5a80a512,A snapshot of ice cream.,c_e4731e,ice cream
+q_5cea5e28,"A photo of risotto, which is a northern Italian rice dish cooked slowly in broth until creamy.",c_088bf2,risotto
+q_5d606391,Looking for an image of creme brulee.,c_408dbd,creme brulee
+q_5d91386f,"An image of loin back ribs, also called baby back ribs.",c_8c3a65,baby back ribs
+q_5de451e2,"An image of potstickers, also called gyoza.",c_41a778,gyoza
+q_5e021ed2,The main food in this picture is lasagna.,c_09f6e0,lasagna
+q_5e20f5ff,A snapshot of crab cakes.,c_712448,crab cakes
+q_6005c0f2,Retrieve images of gyoza.,c_41a778,gyoza
+q_6096725c,"Food known as oysters, bivalve shellfish eaten raw or cooked.",c_c68ad1,oysters
+q_61258122,Looking for an image of ramen.,c_120ff4,ramen
+q_61a00081,A breakfast burrito served and ready to eat.,c_a90906,breakfast burrito
+q_61f63422,A snapshot of french fries.,c_9909b2,french fries
+q_62fd713d,Cupcakes served and ready to eat.,c_9c0170,cupcakes
+q_637c25cf,The main food in this picture is cannoli.,c_f91c48,cannoli
+q_647ae0be,Retrieve images of takoyaki.,c_897836,takoyaki
+q_64d2d4d1,"A photograph of club sandwich, described as a sandwich of toasted bread layered with sliced poultry or meat, bacon, lettuce and tomato.",c_7594ce,club sandwich
+q_64f1f4cd,Retrieve images of pizza.,c_310580,pizza
+q_65164df3,A food photograph featuring a pulled pork sandwich.,c_ee01b2,pulled pork sandwich
+q_654a9c3a,Retrieve images of sushi.,c_ee0342,sushi
+q_654ddc95,The main food in this picture is apple pie.,c_e80161,apple pie
+q_671db485,Retrieve images of red velvet cake.,c_585070,red velvet cake
+q_67248a56,Filet mignon served and ready to eat.,c_af32ea,filet mignon
+q_685b4bea,A snapshot of a breakfast burrito.,c_a90906,breakfast burrito
+q_68aa3f61,"A photograph of grilled salmon, described as salmon cooked on a grill.",c_1d6260,grilled salmon
+q_69d87ddc,"An image of fried rings or rounds of sweet dough, known as donuts.",c_e3e89a,donuts
+q_6a2f4eef,The main food in this picture is churros.,c_bb03ec,churros
+q_6a742b99,"Food known as chicken quesadilla, a Mexican dish of a tortilla filled with cheese and chicken, folded or layered and heated.",c_5f223e,chicken quesadilla
+q_6ac0bcea,Find me a photo of a hot dog.,c_b88d36,hot dog
+q_6af621c9,Food image: French onion soup.,c_a8e2e4,french onion soup
+q_6b34ad8b,Looking for an image of a croque madame.,c_18221e,croque madame
+q_6b5d3f03,Looking for an image of Peking duck.,c_791a33,peking duck
+q_6d166fd3,A meal featuring shrimp and grits.,c_c82a05,shrimp and grits
+q_6e29b2e5,Find me a photo of oysters.,c_c68ad1,oysters
+q_6f2a8b58,Retrieve images of oysters.,c_c68ad1,oysters
+q_6ffddb49,A snapshot of ramen.,c_120ff4,ramen
+q_7091d9eb,Food image: red velvet cake.,c_585070,red velvet cake
+q_70acbf66,A snapshot of an omelette.,c_40ddb0,omelette
+q_72042372,A snapshot of fish and chips.,c_dd5139,fish and chips
+q_72d26226,"An image of a dessert with a rich filling made mainly from soft cheese, known as cheesecake.",c_229978,cheesecake
+q_7342dd33,A food photograph featuring strawberry shortcake.,c_027b0d,strawberry shortcake
+q_74ac517f,Bread pudding served and ready to eat.,c_7369af,bread pudding
+q_74f90286,This picture shows a Caesar salad.,c_988dbd,caesar salad
+q_7654095e,"A photograph of beignets, described as small deep-fried pastries made from dough.",c_49ab78,beignets
+q_76ece218,Food image: foie gras.,c_09f71d,foie gras
+q_76f17a25,"An image of froyo, also called frozen yogurt.",c_46de6b,frozen yogurt
+q_773f8209,A food photograph featuring creme brulee.,c_408dbd,creme brulee
+q_77ed9172,The main food in this picture is shrimp and grits.,c_c82a05,shrimp and grits
+q_784222ba,The main food in this picture is samosas.,c_c76210,samosa
+q_78ea0a4d,The main food in this picture is ramen.,c_120ff4,ramen
+q_78fa2c06,"A photo of a Caesar salad, which is a salad of romaine lettuce and croutons dressed with Caesar dressing.",c_988dbd,caesar salad
+q_792787eb,A snapshot of panna cotta.,c_d8670e,panna cotta
+q_79622e28,A food photograph featuring guacamole.,c_286b03,guacamole
+q_79a84bd6,"An image of a French hot ham and cheese sandwich topped with an egg, known as croque madame.",c_18221e,croque madame
+q_79c71804,Food image: a steak.,c_f2ed79,steak
+q_7a151fe1,"A photograph of nachos, described as tortilla chips topped with melted cheese and other toppings.",c_a4246e,nachos
+q_7adda8d1,Looking for an image of eggs Benedict.,c_2b79ae,eggs benedict
+q_7c322c77,Retrieve images of bibimbap.,c_cd6629,bibimbap
+q_7d48a929,An image showing ravioli.,c_67c71f,ravioli
+q_7d6046c5,Find me a photo of paella.,c_875345,paella
+q_7d632741,"Food known as lobster roll, a sandwich of lobster meat served in a split bread roll.",c_49bb17,lobster roll
+q_7db8bca7,"A photo of a beet salad, which is a salad made with beetroot.",c_ee664f,beet salad
+q_7dd0f74f,Retrieve images of spaghetti bolognese.,c_3c9ce0,spaghetti bolognese
+q_7e450421,"An image of a food made from the fattened liver of a duck or goose, known as foie gras.",c_09f71d,foie gras
+q_7ec04e75,Food image: a breakfast burrito.,c_a90906,breakfast burrito
+q_7ec2be57,Find me a photo of foie gras.,c_09f71d,foie gras
+q_7fff44b6,A snapshot of falafel.,c_59323e,falafel
+q_809fc025,Find me a photo of poutine.,c_0e17a4,poutine
+q_8102f649,"An image of cooked rice stir-fried in a wok or pan with other ingredients, known as fried rice.",c_5799d4,fried rice
+q_820de9ed,This picture shows grilled salmon.,c_1d6260,grilled salmon
+q_830e59c7,This picture shows nachos.,c_a4246e,nachos
+q_85584843,"Food known as samosa, fried or baked pastries with a savoury filling, popular in South Asian cuisine.",c_c76210,samosa
+q_8559ca6c,The main food in this picture is sushi.,c_ee0342,sushi
+q_85a8a1d9,"A photograph of gyoza, described as Japanese filled wrappers of thin dough that are pan-fried.",c_41a778,gyoza
+q_87a4d9b4,Find me a photo of spaghetti bolognese.,c_3c9ce0,spaghetti bolognese
+q_87bacd55,A meal featuring nachos.,c_a4246e,nachos
+q_88249813,The main food in this picture is spaghetti carbonara.,c_69eb07,spaghetti carbonara
+q_89431b8a,A snapshot of gnocchi.,c_11a67d,gnocchi
+q_896f7d5f,A snapshot of poutine.,c_0e17a4,poutine
+q_8a144136,The main food in this picture is hot and sour soup.,c_eba712,hot and sour soup
+q_8ac643f5,"An image of deep-fried balls or patties made from ground chickpeas, fava beans or both, known as falafel.",c_59323e,falafel
+q_8aece518,A picture of spag bol (spaghetti bolognese).,c_3c9ce0,spaghetti bolognese
+q_8b29d187,An image showing fish and chips.,c_dd5139,fish and chips
+q_8b9cea4f,An image showing falafel.,c_59323e,falafel
+q_8c567923,A food photograph featuring falafel.,c_59323e,falafel
+q_8c5dd5d6,A croque madame served and ready to eat.,c_18221e,croque madame
+q_8d03a3de,A picture of standing rib roast (prime rib).,c_a23a6d,prime rib
+q_8d31bbf4,Tiramisu served and ready to eat.,c_6fcfbc,tiramisu
+q_8d9047a6,"Food known as chicken wings, cooked wing sections of chicken.",c_4312a4,chicken wings
+q_8de0536f,Retrieve images of hot and sour soup.,c_eba712,hot and sour soup
+q_8df2d3da,This picture shows sushi.,c_ee0342,sushi
+q_8e4ce7b2,The main food in this picture is spring rolls.,c_af971c,spring rolls
+q_8f0c0e07,A snapshot of bread pudding.,c_7369af,bread pudding
+q_8f3081cf,Find me a photo of chicken wings.,c_4312a4,chicken wings
+q_8f373825,Hummus served and ready to eat.,c_fd10cb,hummus
+q_8f802282,Find me a photo of seaweed salad.,c_74fb59,seaweed salad
+q_903a2018,An image showing churros.,c_bb03ec,churros
+q_910eacd8,Food image: shrimp and grits.,c_c82a05,shrimp and grits
+q_91393acd,Food image: pad thai.,c_77882d,pad thai
+q_924a3f41,Retrieve images of fried rice.,c_5799d4,fried rice
+q_92cd3ec0,Food image: pancakes.,c_50c6e4,pancakes
+q_92ee6459,A meal featuring panna cotta.,c_d8670e,panna cotta
+q_9311821a,A picture of cheese toastie (grilled cheese sandwich).,c_3dda4a,grilled cheese sandwich
+q_93847696,Food image: escargots.,c_524a42,escargots
+q_93e80d0e,Find me a photo of tacos.,c_804a90,tacos
+q_9505cf75,A picture of beetroot salad (beet salad).,c_ee664f,beet salad
+q_950ccace,Food image: a grilled cheese sandwich.,c_3dda4a,grilled cheese sandwich
+q_9541eb3e,A snapshot of beignets.,c_49ab78,beignets
+q_956d15b8,Food image: baby back ribs.,c_8c3a65,baby back ribs
+q_95732961,"A photograph of hummus, described as a dip or spread made from mashed chickpeas blended with tahini.",c_fd10cb,hummus
+q_966437fe,An image showing tacos.,c_804a90,tacos
+q_96e5df50,"Food known as sashimi, a Japanese dish of thinly sliced raw fish or seafood.",c_767b6d,sashimi
+q_97904048,"A photo of guacamole, which is a Mexican dip made from mashed avocado.",c_286b03,guacamole
+q_97d33670,"Food known as cupcakes, small individual cakes baked in a cup-shaped mould or paper liner.",c_9c0170,cupcakes
+q_982d880f,"Food known as pho, a Vietnamese soup consisting of broth and rice noodles.",c_d59b41,pho
+q_98c9afe1,"An image of mac and cheese, also called macaroni and cheese.",c_ba339e,macaroni and cheese
+q_99193be6,Looking for an image of ravioli.,c_67c71f,ravioli
+q_9932bea4,A picture of pasta carbonara (spaghetti carbonara).,c_69eb07,spaghetti carbonara
+q_9982d618,The main food in this picture is filet mignon.,c_af32ea,filet mignon
+q_9a2f0dde,A snapshot of pancakes.,c_50c6e4,pancakes
+q_9a31547d,The main food in this picture is panna cotta.,c_d8670e,panna cotta
+q_9a514331,Find me a photo of a cheese plate.,c_297dde,cheese plate
+q_9b5a92b9,The main food in this picture is miso soup.,c_618253,miso soup
+q_9bc56b43,A picture of French macarons (macarons).,c_779807,macarons
+q_9bda9d54,"An image of bread topped or filled with garlic and butter or oil, then toasted or baked, known as garlic bread.",c_a6d1d3,garlic bread
+q_9be7f4b2,"An image of a Korean dish of rice served in a bowl with assorted toppings that are mixed together before eating, known as bibimbap.",c_cd6629,bibimbap
+q_9c3f6113,"An image of cheese board, also called cheese plate.",c_297dde,cheese plate
+q_9c4c456b,Baby back ribs served and ready to eat.,c_8c3a65,baby back ribs
+q_9c638bc6,Looking for an image of donuts.,c_e3e89a,donuts
+q_9caa6205,Looking for an image of chocolate cake.,c_779b8c,chocolate cake
+q_9e8d5767,"A photo of chicken curry, which is a dish of chicken cooked in a spiced curry sauce.",c_1df09b,chicken curry
+q_9f6add71,A snapshot of lobster bisque.,c_cac5a4,lobster bisque
+q_9f86c157,Looking for an image of edamame.,c_d67f3a,edamame
+q_9f9b3859,A meal featuring fried rice.,c_5799d4,fried rice
+q_9fb4a82d,A snapshot of lasagna.,c_09f6e0,lasagna
+q_a0975898,Find me a photo of huevos rancheros.,c_7fc35d,huevos rancheros
+q_a0d8516f,This picture shows tuna tartare.,c_3930d5,tuna tartare
+q_a31a4758,An image showing escargots.,c_524a42,escargots
+q_a36932b6,A food photograph featuring a steak.,c_f2ed79,steak
+q_a3eadf02,A meal featuring hummus.,c_fd10cb,hummus
+q_a432332e,A meal featuring sashimi.,c_767b6d,sashimi
+q_a46e7249,Looking for an image of apple pie.,c_e80161,apple pie
+q_a5e8f447,Retrieve images of poutine.,c_0e17a4,poutine
+q_a819ce36,"A photo of pancakes, which is flat round cakes made from batter and cooked on a griddle or frying pan.",c_50c6e4,pancakes
+q_a82e1520,A meal featuring pancakes.,c_50c6e4,pancakes
+q_a84b2ac7,Food image: edamame.,c_d67f3a,edamame
+q_a856b0fe,An image showing a pulled pork sandwich.,c_ee01b2,pulled pork sandwich
+q_a87c5254,Risotto served and ready to eat.,c_088bf2,risotto
+q_a8f69e8b,Find me a photo of a lobster roll.,c_49bb17,lobster roll
+q_a9edc3eb,Looking for an image of a lobster roll.,c_49bb17,lobster roll
+q_aa2a4f80,"An image of burger, also called hamburger.",c_6922ba,hamburger
+q_aab741c7,The main food in this picture is ravioli.,c_67c71f,ravioli
+q_aae40dca,A meal featuring bread pudding.,c_7369af,bread pudding
+q_ab230ce3,Gnocchi served and ready to eat.,c_11a67d,gnocchi
+q_ab6395cf,The main food in this picture is dumplings.,c_8fcd7d,dumplings
+q_ab8aafcb,Retrieve images of gnocchi.,c_11a67d,gnocchi
+q_abb5dbf0,Retrieve images of a grilled cheese sandwich.,c_3dda4a,grilled cheese sandwich
+q_ac191f6a,A food photograph featuring cannoli.,c_f91c48,cannoli
+q_ad8586a2,A food photograph featuring miso soup.,c_618253,miso soup
+q_adecd45e,A snapshot of mussels.,c_f4fdde,mussels
+q_ae7ad2c4,"An image of a grilled or steamed sausage served in a sliced bun, known as hot dog.",c_b88d36,hot dog
+q_aee46494,"A photograph of French onion soup, described as a soup based on caramelized onions and stock.",c_a8e2e4,french onion soup
+q_aeea7286,Find me a photo of chocolate mousse.,c_b1659a,chocolate mousse
+q_af4e34d6,A food photograph featuring tiramisu.,c_6fcfbc,tiramisu
+q_b00e77a8,"An image of a Latin American dish of raw fish or seafood cured in citrus juice, known as ceviche.",c_256874,ceviche
+q_b052cc2b,Food image: chocolate cake.,c_779b8c,chocolate cake
+q_b0f4d753,"Food known as red velvet cake, a layer cake with a distinctive red or reddish-brown crumb.",c_585070,red velvet cake
+q_b10e02ad,This picture shows seaweed salad.,c_74fb59,seaweed salad
+q_b11354d5,Retrieve images of mussels.,c_f4fdde,mussels
+q_b1bce3e2,Find me a photo of cupcakes.,c_9c0170,cupcakes
+q_b1d44769,Chocolate cake served and ready to eat.,c_779b8c,chocolate cake
+q_b2376f83,This picture shows pho.,c_d59b41,pho
+q_b2e65308,A food photograph featuring eggs Benedict.,c_2b79ae,eggs benedict
+q_b2ec6d55,The main food in this picture is fried calamari.,c_23ad1b,fried calamari
+q_b5bf4baa,The main food in this picture is a hamburger.,c_6922ba,hamburger
+q_b63da293,A picture of lobster roll sandwich (lobster roll).,c_49bb17,lobster roll
+q_b774b407,A picture of burnt cream (creme brulee).,c_408dbd,creme brulee
+q_ba77c328,"A photograph of steak, described as a thick slice of meat, typically beef, cut across the muscle fibres.",c_f2ed79,steak
+q_bae4b936,Looking for an image of bruschetta.,c_2c1c44,bruschetta
+q_bba563b7,"An image of samosas, also called samosa.",c_c76210,samosa
+q_bbd406e2,"Food known as crab cakes, patties made mainly from crab meat that are fried, baked or broiled.",c_712448,crab cakes
+q_bbde74ce,An image showing a caprese salad.,c_a73d5e,caprese salad
+q_bc2c52e8,The main food in this picture is tuna tartare.,c_3930d5,tuna tartare
+q_bc37994a,This picture shows beef tartare.,c_1445ee,beef tartare
+q_bc8d7639,An image showing hot and sour soup.,c_eba712,hot and sour soup
+q_be6efbc2,Retrieve images of beef carpaccio.,c_e32bea,beef carpaccio
+q_bec5d97b,A food photograph featuring lobster bisque.,c_cac5a4,lobster bisque
+q_bf731f25,"An image of a Southern US dish of shrimp served over grits, a porridge of ground corn, known as shrimp and grits.",c_c82a05,shrimp and grits
+q_bf908d1e,Looking for an image of macaroni and cheese.,c_ba339e,macaroni and cheese
+q_bfa0f0a4,"An image of octopus balls, also called takoyaki.",c_897836,takoyaki
+q_c0211ca8,A meal featuring tuna tartare.,c_3930d5,tuna tartare
+q_c0e9e8fd,Retrieve images of Peking duck.,c_791a33,peking duck
+q_c1ac572d,This picture shows falafel.,c_59323e,falafel
+q_c1f5cf6e,The main food in this picture is a hot dog.,c_b88d36,hot dog
+q_c1fb6599,Takoyaki served and ready to eat.,c_897836,takoyaki
+q_c2b1e77a,A food photograph featuring beef tartare.,c_1445ee,beef tartare
+q_c39c1fc1,"Food known as French toast, slices of bread soaked in beaten eggs and milk, then fried.",c_9fc143,french toast
+q_c3c11182,A meal featuring grilled salmon.,c_1d6260,grilled salmon
+q_c4644888,Food image: onion rings.,c_78f4cf,onion rings
+q_c48feb62,A meal featuring risotto.,c_088bf2,risotto
+q_c56c2b7d,"An image of a dish of finely chopped or minced raw beef, known as beef tartare.",c_1445ee,beef tartare
+q_c654c866,A snapshot of pho.,c_d59b41,pho
+q_c6b51578,Find me a photo of edamame.,c_d67f3a,edamame
+q_c6ccdb3f,This picture shows pad thai.,c_77882d,pad thai
+q_c775981e,A snapshot of gyoza.,c_41a778,gyoza
+q_c7fa739b,"A photo of filet mignon, which is a cut of beef taken from the smaller end of the tenderloin.",c_af32ea,filet mignon
+q_c8362550,"Food known as tiramisu, an Italian dessert of coffee-soaked ladyfingers layered with a mascarpone cream.",c_6fcfbc,tiramisu
+q_c8c06ccf,"A photograph of creme brulee, described as a custard dessert topped with a layer of hardened caramelized sugar.",c_408dbd,creme brulee
+q_c8cadff0,A meal featuring crab cakes.,c_712448,crab cakes
+q_c8d5cae6,"Food known as french fries, thin strips of deep-fried potato.",c_9909b2,french fries
+q_c9747fe2,Looking for an image of a chicken quesadilla.,c_5f223e,chicken quesadilla
+q_caef2c82,"An image of eggy bread, also called French toast.",c_9fc143,french toast
+q_cb3ab300,A meal featuring cupcakes.,c_9c0170,cupcakes
+q_cb5d980b,A beet salad served and ready to eat.,c_ee664f,beet salad
+q_cbf4ea3a,A snapshot of prime rib.,c_a23a6d,prime rib
+q_cc94c6e5,The main food in this picture is chocolate mousse.,c_b1659a,chocolate mousse
+q_ccbc022b,"An image of beaten eggs cooked in a frying pan, sometimes folded around a filling, known as omelette.",c_40ddb0,omelette
+q_cdf204c2,An image showing huevos rancheros.,c_7fc35d,huevos rancheros
+q_ce74aa74,"Food known as lobster bisque, a smooth, creamy soup made from lobster.",c_cac5a4,lobster bisque
+q_ce75a1b4,Looking for an image of risotto.,c_088bf2,risotto
+q_cee48e86,A snapshot of spaghetti carbonara.,c_69eb07,spaghetti carbonara
+q_cfab9fb9,A picture of houmous (hummus).,c_fd10cb,hummus
+q_cfca7906,An image showing sushi.,c_ee0342,sushi
+q_cff089d0,Looking for an image of baby back ribs.,c_8c3a65,baby back ribs
+q_d0a41c01,A pork chop served and ready to eat.,c_2e91e6,pork chop
+q_d0b63b4d,Find me a photo of mussels.,c_f4fdde,mussels
+q_d0c2baf2,A snapshot of spring rolls.,c_af971c,spring rolls
+q_d16328b0,"Food known as spring rolls, rolled appetizers of thin pastry wrappers around a filling.",c_af971c,spring rolls
+q_d19ece38,"A photograph of chocolate mousse, described as a light, airy dessert made with chocolate.",c_b1659a,chocolate mousse
+q_d1bc4c70,"A photograph of tacos, described as Mexican folded tortillas with a filling.",c_804a90,tacos
+q_d22e83f3,Retrieve images of pad thai.,c_77882d,pad thai
+q_d24185d3,A club sandwich served and ready to eat.,c_7594ce,club sandwich
+q_d2afc3a9,Food image: garlic bread.,c_a6d1d3,garlic bread
+q_d30c4c21,Retrieve images of dumplings.,c_8fcd7d,dumplings
+q_d32fab7c,"A photograph of cannoli, described as Sicilian pastries made of fried tube-shaped shells filled with a sweet creamy filling.",c_f91c48,cannoli
+q_d4a07f70,A snapshot of baklava.,c_499d03,baklava
+q_d4a16553,Retrieve images of macarons.,c_779807,macarons
+q_d5531bca,"An image of a Beijing dish of roasted duck with thin crispy skin, known as Peking duck.",c_791a33,peking duck
+q_d57588b6,Looking for an image of lobster bisque.,c_cac5a4,lobster bisque
+q_d686f6a5,"Food known as pad thai, a Thai noodle dish made by stir-frying rice noodles.",c_77882d,pad thai
+q_d687cfa2,The main food in this picture is strawberry shortcake.,c_027b0d,strawberry shortcake
+q_d784b60a,This picture shows beef carpaccio.,c_e32bea,beef carpaccio
+q_d7b99c79,Retrieve images of paella.,c_875345,paella
+q_d810b08c,A snapshot of tuna tartare.,c_3930d5,tuna tartare
+q_d83a30ca,Retrieve images of samosas.,c_c76210,samosa
+q_d840f9fc,Retrieve images of beef tartare.,c_1445ee,beef tartare
+q_d965fd09,An image showing pho.,c_d59b41,pho
+q_d98b61f8,Retrieve images of ceviche.,c_256874,ceviche
+q_d99a171a,A meal featuring a steak.,c_f2ed79,steak
+q_d9dd8b01,"An image of battered or breaded squid that has been fried, known as fried calamari.",c_23ad1b,fried calamari
+q_dbe8ee15,Looking for an image of chicken curry.,c_1df09b,chicken curry
+q_dd653425,"A photograph of dumplings, described as pieces of dough wrapped around a filling.",c_8fcd7d,dumplings
+q_dd69afd2,The main food in this picture is onion rings.,c_78f4cf,onion rings
+q_dd8abaa5,A snapshot of huevos rancheros.,c_7fc35d,huevos rancheros
+q_df21af67,Find me a photo of fried rice.,c_5799d4,fried rice
+q_df8ee2b0,Looking for an image of tiramisu.,c_6fcfbc,tiramisu
+q_dfc2756a,"A photo of beef carpaccio, which is an Italian dish of very thinly sliced raw beef.",c_e32bea,beef carpaccio
+q_e0c01ac0,"An image of Italian pasta parcels with a filling sealed between two layers of thin pasta dough, known as ravioli.",c_67c71f,ravioli
+q_e101760a,"A photo of clam chowder, which is a chowder soup made with clams.",c_582ca1,clam chowder
+q_e13daccd,Grilled salmon served and ready to eat.,c_1d6260,grilled salmon
+q_e22bce79,"A photo of a breakfast burrito, which is a flour tortilla wrapped around breakfast fillings such as eggs.",c_a90906,breakfast burrito
+q_e237c90d,A food photograph featuring cheesecake.,c_229978,cheesecake
+q_e2aeef02,An image showing red velvet cake.,c_585070,red velvet cake
+q_e32b3de0,"A photograph of Greek salad, described as a salad of tomatoes, cucumber, onion, olives and feta cheese.",c_b10ec1,greek salad
+q_e3623538,This picture shows bibimbap.,c_cd6629,bibimbap
+q_e39dce88,Foie gras served and ready to eat.,c_09f71d,foie gras
+q_e3b526ca,The main food in this picture is a Caesar salad.,c_988dbd,caesar salad
+q_e3efc635,A snapshot of donuts.,c_e3e89a,donuts
+q_e4475fa9,A picture of clubhouse sandwich (club sandwich).,c_7594ce,club sandwich
+q_e5b114d3,Food image: prime rib.,c_a23a6d,prime rib
+q_e66ae4bc,A chicken quesadilla served and ready to eat.,c_5f223e,chicken quesadilla
+q_e686cf55,Find me a photo of beignets.,c_49ab78,beignets
+q_e6f849f5,"A photo of spaghetti carbonara, which is spaghetti in a sauce of egg, hard cheese and cured pork.",c_69eb07,spaghetti carbonara
+q_e71c0bb0,A meal featuring carrot cake.,c_d9bea3,carrot cake
+q_e73d693d,This picture shows a breakfast burrito.,c_a90906,breakfast burrito
+q_e7fbf8bf,An image showing seaweed salad.,c_74fb59,seaweed salad
+q_e8f2e43d,A food photograph featuring risotto.,c_088bf2,risotto
+q_e9657e2f,An image showing creme brulee.,c_408dbd,creme brulee
+q_e986100b,A meal featuring guacamole.,c_286b03,guacamole
+q_e99bc2f7,Find me a photo of bibimbap.,c_cd6629,bibimbap
+q_ea416f63,Retrieve images of a pork chop.,c_2e91e6,pork chop
+q_ea775d4d,Retrieve images of chocolate cake.,c_779b8c,chocolate cake
+q_eaa3f9ca,"A photo of lasagna, which is an Italian baked dish of wide flat pasta sheets layered with sauce and other fillings.",c_09f6e0,lasagna
+q_eb385c5d,An image showing beef carpaccio.,c_e32bea,beef carpaccio
+q_eb473d65,Retrieve images of miso soup.,c_618253,miso soup
+q_ec1c7618,"A photo of hot and sour soup, which is a Chinese soup that is both spicy and sour.",c_eba712,hot and sour soup
+q_ed80e459,A snapshot of clam chowder.,c_582ca1,clam chowder
+q_ee542193,Retrieve images of waffles.,c_059bcd,waffles
+q_eed0e014,A meal featuring ramen.,c_120ff4,ramen
+q_ef41a7b7,The main food in this picture is pizza.,c_310580,pizza
+q_effcf30c,Food image: strawberry shortcake.,c_027b0d,strawberry shortcake
+q_f00c432e,The main food in this picture is fish and chips.,c_dd5139,fish and chips
+q_f05407f8,A food photograph featuring carrot cake.,c_d9bea3,carrot cake
+q_f074e9dd,"An image of a sweet pastry made of layers of filo dough filled with chopped nuts and sweetened with syrup or honey, known as baklava.",c_499d03,baklava
+q_f0d0f1af,An image showing a club sandwich.,c_7594ce,club sandwich
+q_f1546e74,A snapshot of scallops.,c_cb8250,scallops
+q_f1b6e0b3,An image showing ceviche.,c_256874,ceviche
+q_f2a6955e,"Food known as caprese salad, an Italian salad of tomatoes, fresh mozzarella and basil.",c_a73d5e,caprese salad
+q_f36fa331,Looking for an image of a pork chop.,c_2e91e6,pork chop
+q_f3958157,A meal featuring ice cream.,c_e4731e,ice cream
+q_f5a9d34d,"A photo of seaweed salad, which is a salad made from edible seaweed.",c_74fb59,seaweed salad
+q_f5e2475f,The main food in this picture is french fries.,c_9909b2,french fries
+q_f60ceba0,This picture shows French onion soup.,c_a8e2e4,french onion soup
+q_f658a11e,This picture shows a steak.,c_f2ed79,steak
+q_f6e3b414,Retrieve images of a beet salad.,c_ee664f,beet salad
+q_f7e6b739,Find me a photo of filet mignon.,c_af32ea,filet mignon
+q_f82974ec,A snapshot of a cheese plate.,c_297dde,cheese plate
+q_f86b797c,An image showing pizza.,c_310580,pizza
+q_f8786d7e,Looking for an image of spring rolls.,c_af971c,spring rolls
+q_f88816ee,A meal featuring a club sandwich.,c_7594ce,club sandwich
+q_f88d5150,Retrieve images of grilled salmon.,c_1d6260,grilled salmon
+q_f94e3e7f,This picture shows crab cakes.,c_712448,crab cakes
+q_f9da8696,Find me a photo of a Greek salad.,c_b10ec1,greek salad
+q_fa2cfeec,Retrieve images of carrot cake.,c_d9bea3,carrot cake
+q_fae1d696,An image showing a hamburger.,c_6922ba,hamburger
+q_fb286bf7,A food photograph featuring a caprese salad.,c_a73d5e,caprese salad
+q_fb57cbd2,A food photograph featuring a Caesar salad.,c_988dbd,caesar salad
+q_fc5b9938,An image showing shrimp and grits.,c_c82a05,shrimp and grits
+q_fc795c68,The main food in this picture is waffles.,c_059bcd,waffles
+q_fc9c9232,Looking for an image of carrot cake.,c_d9bea3,carrot cake
+q_fcdec06f,The main food in this picture is macaroni and cheese.,c_ba339e,macaroni and cheese
+q_fd14b586,"An image of fries, also called french fries.",c_9909b2,french fries
+q_fe11b118,Food image: cheesecake.,c_229978,cheesecake
+q_fe69df0d,"An image of lasagne, also called lasagna.",c_09f6e0,lasagna
+q_fe908005,"An image of a cake made with grated carrots mixed into the batter, known as carrot cake.",c_d9bea3,carrot cake
+q_feb1cc8b,Chicken wings served and ready to eat.,c_4312a4,chicken wings
+q_ff685f5c,This picture shows a hot dog.,c_b88d36,hot dog
+q_fff0d42d,"A photograph of bruschetta, described as an Italian antipasto of grilled or toasted bread with toppings.",c_2c1c44,bruschetta
